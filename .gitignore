@@ -67,5 +67,3 @@ htmlcov/
 # Local tools and dependencies
 node_modules/
 *.lock
-
-key.py
